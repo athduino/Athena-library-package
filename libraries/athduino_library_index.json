@@ -14,7 +14,7 @@
           "architecture": "all",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/athduino/Athena-library-package/releases/download/v1.0.0/Athena-library-package.zip",
+          "url": "https://github.com/athduino/Athena-library-package/releases/download/v1.0.0/Athena-libPackage.zip",
           "archiveFileName": "Athena-library-package.zip",
           "boards": [
             {
@@ -26,4 +26,5 @@
     }
   ]
 }
+
 
