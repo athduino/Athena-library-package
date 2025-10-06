@@ -1,0 +1,5 @@
+dummy.name=athena platform
+dummy.upload.maximum_size=32768
+dummy.upload.speed=115200
+dummy.build.mcu=atmega328p
+dummy.upload.tool=arduino:avrdude
