@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "Athena library package index",
+      "maintainer": "JMorales",
+      "websiteURL": "https://github.com/yourusername/MyLibraryPackage",
+      "email": "you@example.com",
+      "help": {
+        "online": "https://github.com/yourusername/MyLibraryPackage"
+      },
+      "platforms": [
+        {
+          "name": "ADC128s",
+          "architecture": "all",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/athduino/Athena-library-package/releases/download/v1.0.0/Athena-library-package.zip",
+          "archiveFileName": "Athena-library-package.zip",
+          "boards": [
+            {
+              "name": "Athena Board",
+              "upload.maximum_size": 32768,
+              "upload.speed": 115200,
+              "build.mcu": "atmega328p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
