@@ -18,10 +18,7 @@
           "archiveFileName": "Athena-library-package.zip",
           "boards": [
             {
-              "name": "Athena Board",
-              "upload.maximum_size": 32768,
-              "upload.speed": 115200,
-              "build.mcu": "atmega328p"
+              "name": "Athena Board"
             }
           ]
         }
@@ -29,3 +26,4 @@
     }
   ]
 }
+
